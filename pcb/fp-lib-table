@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Adafruit HUSB238 USB-C PD Breakout")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit HUSB238 USB-C PD Breakout.pretty")(options "")(descr ""))
+)
