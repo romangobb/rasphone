@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/roman/Documents/KiCad/cm4-carriers-main/rpi-cm4-carrier-template-main/hardware/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
+)
